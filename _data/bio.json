@@ -1,91 +1,95 @@
 {
-  "basics": {
-    "name": "Tyler Johnson",
-    "label": "Student",
-    "picture": "https://tylerjoh.github.io/images/tylerjoh.jpg",
-    "email": "tylerjoh@hawaii.edu",
-    "phone": "808-799-9471",
-    "website": "https://tylerjoh.github.io",
-    "summary": "I am studying for a B.B.A. in Finance and MIS through Shidler College of Business at the University of Hawaii. I expect to graduate in Spring, 2022.",
-    "location": {
-      "address": "2404 Maile Way",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
-    },
-    "profiles": [
+   "basics":{
+      "name":"Tyler Johnson",
+      "label":"Student",
+      "picture":"https://tylerjoh.github.io/images/tylerjoh.jpg",
+      "email":"tylerjoh@hawaii.edu",
+      "phone":"808-799-9471",
+      "website":"https://tylerjoh.github.io",
+      "summary":"I am studying for a B.B.A. in Finance and MIS through Shidler College of Business at the University of Hawaii. I expect to graduate in Spring, 2022.",
+      "location":{
+         "address":"2404 Maile Way",
+         "postalCode":"96822",
+         "city":"Honolulu",
+         "countryCode":"USA",
+         "region":"Hawaii"
+      },
+      "profiles":[
+         {
+            "network":"github",
+            "username":"tylerjoh",
+            "url":"http://github.com/tylerjoh"
+         },
+         {
+            "network":"instagram",
+            "username":"tylerjohnsonnnn",
+            "url":"http://instagram.com/tylerjohnsonnnn"
+         }
+      ]
+   },
+   "interests":[
       {
-        "network": "github",
-        "username": "tylerjoh",
-        "url": "http://github.com/tylerjoh"
+         "name":"Trying new restaurants",
+         "keywords":[
+            
+         ]
       },
       {
-        "network": "instagram",
-        "username": "tylerjohnsonnnn",
-        "url": "http://instagram.com/tylerjohnsonnnn"
+         "name":"Going to the beach",
+         "keywords":[
+            
+         ]
+      },
+      {
+         "name":"Any outdoor activities",
+         "keywords":[
+            
+         ]
       }
-    ]
-  },
-  "interests": [
-    {
-      "name": "Trying new restaurants",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Going to the beach",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Any outdoor activities",
-      "keywords": [
-      ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Finance and MIS (expected Spring, 2022)",
-      "studyType": "B.B.A.",
-      "startDate": "2018-09-01",
-      "endDate": "Present",
-      "gpa": "",
-      "courses": [
-      ]
-    }
-  ],
-  "work": [
-    {
-      "company": "Fujiyama Texas",
-      "position": "Server",
-      "website": "https://www.fujiyamatexas-hi.com/",
-      "startDate": "2015-01-15",
-      "endDate": "Present",
-      "summary": "Server at a Kushi Katsu Izakaya restaurant",
-      "highlights": [
-        "Seat customers, take orders, deliver food, and maintain the cleanliness of the restaurant",
-      ]
-    },
-  ],
-  "volunteer": [
-    {
-      "organization": "Hale Malamalama",
-      "website": "http://www.halemalamalamanursing.com/",
-      "position": "Event Volunteer",
-      "startDate": "2015-12-25",
-      "endDate": "Present",
-      "summary": "Perform different tasks that cater to their guests and nurses",
-      "highlights": [
-        "Cook and prepare meals for eldery patients",
-      ]
-    },
-  ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
-    }
-  ]
-}
+   ],
+   "education":[
+      {
+         "institution":"University of Hawaii, Honolulu, HI",
+         "area":"Finance and MIS (expected Spring, 2022)",
+         "studyType":"B.B.A.",
+         "startDate":"2018-09-01",
+         "endDate":"Present",
+         "gpa":"",
+         "courses":[
+            
+         ]
+      }
+   ],
+   "work":[
+      {
+         "company":"Fujiyama Texas",
+         "position":"Server",
+         "website":"https://www.fujiyamatexas-hi.com/",
+         "startDate":"2015-01-15",
+         "endDate":"Present",
+         "summary":"Server at a Kushi Katsu Izakaya restaurant",
+         "highlights":[
+            "Seat customers, take orders, deliver food, and maintain the cleanliness of the restaurant"
+         ]
+      }
+   ],
+   "volunteer":[
+      {
+         "organization":"Hale Malamalama",
+         "website":"http://www.halemalamalamanursing.com/",
+         "position":"Event Volunteer",
+         "startDate":"2015-12-25",
+         "endDate":"Present",
+         "summary":"Perform different tasks that cater to their guests and nurses",
+         "highlights":[
+            "Cook and prepare meals for eldery patients"
+         ]
+      }
+   ],
+   "references":[
+      {
+         "name":"Available upon request",
+         "reference":""
+      }
+   ]
+} 
